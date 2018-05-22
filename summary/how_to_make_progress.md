@@ -80,6 +80,7 @@ ArXiv読み
 - [研究発表でのよくある質問集](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html) 
 - [修士論文や卒業論文の発表会に向けたアドバイス](http://blog.chase-dream.com/2013/02/03/3113)
 - [ひたすら楽してスライド作成](https://www.slideshare.net/MasanoriMorise/ss-89422938)
+- [スライド発表のコツ](http://www.mlab.im.dendai.ac.jp/~assist/start_up_seminar/start-up110418ppt.pdf)
 
 ## 実験コードの管理<a name="code"></a>
 
